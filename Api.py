@@ -3,7 +3,7 @@ from contextlib import contextmanager
 import json
 import os
 import serial.tools.list_ports
-
+#import webbrowser
 #setup you ip here
 ip="http://localhost:5000"
 #setup your API KEY HERE
